@@ -35,7 +35,6 @@ title{
 }
 
 .mainp{
-    border: 1px solid black;
     text-align: justify;
     width:700px;
 }
@@ -83,3 +82,6 @@ padding-left: 10px;
 
 }
 
+.extraa{
+    font-family: "Roboto Slab"
+}
