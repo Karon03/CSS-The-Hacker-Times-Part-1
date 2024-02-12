@@ -36,7 +36,7 @@ title{
 
 .mainp{
     text-align: justify;
-    width:700px;
+    width: 700px;
 }
 
 .list{
@@ -77,11 +77,18 @@ ul{
 }
 
 .morea p{
-width: 270px;
-padding-left: 10px;
+    width: 270px;
+    padding-left: 10px;
 
 }
 
-.extraa{
+.articlefont{
     font-family: "Roboto Slab"
+}
+
+nav{
+    position:sticky;
+    top:0;
+    z-index: 2;
+    background-color: white;
 }
